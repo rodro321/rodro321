@@ -16,6 +16,11 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge)
 
+
+### 📫 Contact  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rodrigochoquebautista000@gmail.com)
+
+
 </div>
 
 <!--
