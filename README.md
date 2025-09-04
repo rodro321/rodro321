@@ -18,7 +18,8 @@
 
 
 ### 📫 Contact  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rodrigochoquebautista000@gmail.com)
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rodrigochoquebautista000@gmail.com)-->
+📧 [rodrigochoquebautista000@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tu_correo@gmail.com)
 
 
 </div>
