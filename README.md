@@ -14,7 +14,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge)
+<!-- ![Git](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge)-->
 
 
 ### 📫 Contact  
