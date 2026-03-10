@@ -38,6 +38,13 @@ Soy un apasionado por la tecnología y el desarrollo de software, enfocado en la
 
 ---
 
-## 📫 Contacto
-- ✉️ Email: [rodrigochoquebautista00@gmail.com](mailto:rodrigochoquebautista00@gmail.com)
-- 📍 Cochabamba, Bolivia
+## 📫 Contacto y Redes
+
+Abre la puerta a nuevas oportunidades o simplemente hablemos de tecnología:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choque-bautista-rodrigo-alejandro-b834122a0/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodroch_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigochoquebautista00@gmail.com)
+
+---
+*📍  Cochabamba - Bolivia. .*
