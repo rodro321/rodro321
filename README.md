@@ -1,40 +1,43 @@
-<div align="center">
+# ¡Hola! Soy Rodrigo Choque 👋
+### Backend Developer | Systems Engineering Student 💻
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=welcome;soy+Rodrigo;systems+engineering+student" alt="Typing SVG" />
-  </a>
-</p>
+Soy un apasionado por la tecnología y el desarrollo de software, enfocado en la creación de soluciones robustas y escalables desde el lado del servidor. Me destaco por mi capacidad de **liderazgo técnico**, resolución de problemas complejos y el uso de **IA para optimizar el flujo de trabajo** en el desarrollo frontend.
 
 ---
 
-### 🛠️ Tools and Technologies  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-<!-- ![Git](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge)-->
+## 🚀 Sobre mí
+- 🎓 Estudiante de Ingeniería de Sistemas en la **UMSS** (Bolivia).
+- 🛠️ Especializado en el ecosistema de **Java (Spring Boot)** y **PHP (Laravel)**.
+- 📊 Experto gestionando bases de datos relacionales: **SQL Server** y **PostgreSQL**.
+- 💡 Cofundador de **AID-SOFT.SRL**, donde aplico mis conocimientos en proyectos reales.
 
 
-### 📫 Contact  
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rodrigochoquebautista000@gmail.com)-->
-📧 [rodrigochoquebautista000@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tu_correo@gmail.com)
+---
 
+## 🛠️ Stack Tecnológico
 
-</div>
+### Backend & Databases
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!--
-**rodro321/rodro321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend & Tools (AI Assisted)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estadísticas de GitHub
+
+![Stats de Rodrigo](https://github-readme-stats.vercel.app/api?username=rodro321&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rodro321&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+- ✉️ Email: [rodrigochoquebautista00@gmail.com](mailto:rodrigochoquebautista00@gmail.com)
+- 📍 Cochabamba, Bolivia
